@@ -11,7 +11,7 @@ The 'data.txt' contains all of the data describe the MEAN and STD of all the ini
 6 LAYING  
  [2] "Group.2": The subject numbers for each line.  
 
- ** The following variables describe the MEAN and STD of each singnal as described in 'features_info.txt'**    
+ **The following variables describe the MEAN and STD of each singnal as described in 'features_info.txt'**    
 
  [3] "tBodyAcc-mean()-X"                   
  [4] "tBodyAcc-mean()-Y"                   
